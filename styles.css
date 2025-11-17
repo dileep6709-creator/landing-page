@@ -365,47 +365,6 @@ a {
   margin-top: 2.5rem;
 }
 
-.testimonials {
-  padding: 5rem 0;
-}
-
-.testimonial-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.5rem;
-}
-
-.testimonial {
-  background: #fff;
-  border-radius: var(--radius-md);
-  padding: 1.75rem;
-  border: 1px solid var(--border);
-  box-shadow: 0 10px 30px rgba(15, 15, 15, 0.08);
-}
-
-.testimonial-header {
-  display: flex;
-  gap: 1rem;
-  align-items: center;
-  margin-bottom: 1rem;
-}
-
-.avatar {
-  width: 48px;
-  height: 48px;
-  border-radius: 50%;
-  background: #111;
-  color: #fff;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 600;
-}
-
-.testimonial p {
-  margin: 0;
-  color: var(--muted);
-}
 
 .contact {
   padding: 5rem 0;
